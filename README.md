@@ -17,10 +17,10 @@ Here's a quick overview of the files included in this repository:
 - **PHP**: `PHP.php` 🐘
 - **Perl**: `perl.pl` 🐪
 - **Python**: `Python.py` 🐍
-- **R**: `R.r` 📊
+- **R**: `R_Lang.r` 📊
 - **Ruby**: `Ruby.ru` 💎
 - **Rust**: `Rust.rs` 🦀
-- **Swift**: `Swift.Swift` 🦅
+- **Swift**: `swift.Swift` 🦅
 - **TypeScript**: `TypeScript.ts` 📝
 
 ## 🎯 Purpose
