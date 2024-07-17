@@ -49,10 +49,6 @@ The main goal of this repository is to provide a quick reference for the basic p
 - **Swift**: Apple's language for iOS and macOS development. 🍏
 - **TypeScript**: A superset of JavaScript that adds static types, making it more robust. 🔒
 
-## 🤖 Contributions & Feedback
-
-Feel free to contribute by adding more languages or improving the existing ones. Fork the repo, make your changes, and send a pull request. We love feedback, so don't hesitate to open an issue if you have suggestions or find any bugs. 🐛
-
 ## 🥳 Let's Celebrate Code!
 
 Coding is fun, and seeing the same concept in different syntaxes can be both educational and entertaining. Enjoy exploring the print statements and happy coding! 🎈
