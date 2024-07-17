@@ -8,15 +8,15 @@ Welcome to the **Diff_Programming_Language_Print_Statement** repository! 🎉 Th
 Here's a quick overview of the files included in this repository:
 
 - **C Language**: `c_language.c` 🥇
-- **C++**: `c++.cpp` 🥈
+- **C++**: `c++_language.cpp` 🥈
 - **C#**: `c#.cs` 🥉
 - **Go**: `Go_Lang.go` 🐹
 - **Java**: `Java.java` ☕
 - **JavaScript**: `JavaScript.js` 🌐
 - **Kotlin**: `Kotlin.kt` 📱
 - **PHP**: `PHP.php` 🐘
-- **Perl**: `perl.pl` 🐪
-- **Python**: `Python.py` 🐍
+- **Perl**: `PERL.pl` 🐪
+- **Python**: `PYTHON.py` 🐍
 - **R**: `R_Lang.r` 📊
 - **Ruby**: `Ruby.ru` 💎
 - **Rust**: `Rust.rs` 🦀
